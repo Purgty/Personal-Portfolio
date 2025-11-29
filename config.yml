@@ -3,7 +3,8 @@ languageCode: "en-us"
 title: "Aswinkumar Varathakumaran"
 theme: "PaperMod"
 
-paginate: 20
+pagination:
+  pagerSize: 20
 enableRobotsTXT: true
 enableInlineShortcodes: true
 
