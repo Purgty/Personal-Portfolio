@@ -71,17 +71,17 @@ params:
       - name: Papers
         url: papers/
       - name: Data
-        url: data/
-      - name: Books
-        url: books/
-      - name: Courses
+      #   url: data/
+      # - name: Books
+      #   url: books/
+      - name: Certifications
         url: courses/
       - name: Tags
         url: tags/
-      - name: Archive
-        url: archive/
-      - name: Blog
-        url: blog/
+      # - name: Archive
+      #   url: archive/
+      # - name: Blog
+      #   url: blog/
 
   # Social icons
   socialIcons:
