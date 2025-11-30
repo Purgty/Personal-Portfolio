@@ -6,7 +6,7 @@ author: "Aswinkumar Varathakumaran"
 description: "Oracle Cloud Infrastructure 2025 AI Foundations Associate Certification."
 summary: "Successfully earned the OCI 2025 AI Foundations Associate Certification issued by Oracle."
 cover:
-    image: "OCI AI Foundations Associate Badge.jpg"
+    image: "OCI AI Foundations Associate Badge.jpeg"
     alt: "OCI AI Foundations Associate Certification"
     relative: true
 showToc: false
