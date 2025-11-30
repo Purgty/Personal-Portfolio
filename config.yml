@@ -13,21 +13,21 @@ taxonomies:
 
 menu:
   main:
-    - name: Books
-      url: books/
-      weight: 5
+    # - name: Books
+    #   url: books/
+    #   weight: 5
     - name: Papers
       url: papers/
       weight: 2
-    - name: Courses
+    - name: Certifications
       url: courses/
       weight: 3
-    - name: Data
-      url: data/
-      weight: 4
-    - name: Blog
-      url: blog/
-      weight: 6
+    # - name: Data
+    #   url: data/
+      # weight: 4
+    # - name: Blog
+    #   url: blog/
+    #   weight: 6
 
 params:
   description: "This website hosts Aswinkumar Varathakumaran’s research papers, projects, books, course notes, datasets, CV, and contact information."
@@ -70,7 +70,7 @@ params:
     buttons:
       - name: Papers
         url: papers/
-      - name: Data
+      # - name: Data
       #   url: data/
       # - name: Books
       #   url: books/

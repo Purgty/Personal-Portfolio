@@ -37,6 +37,9 @@
 {{- end }}
 
 {{- $term := .Data.Term }}
+{{- if eq .Type "courses" }}
+<div class="posts-grid">
+{{- end }}
 {{- range $index, $page := $paginator.Pages }}
 
 {{- $class := "post-entry" }}
@@ -76,6 +79,9 @@
   {{- end }}
   <a class="entry-link" aria-label="post link to {{ .Title | plainify }}" href="{{ .Permalink }}"></a>
 </article>
+{{- end }}
+{{- if eq .Type "courses" }}
+</div>
 {{- end }}
 
 {{- if gt $paginator.TotalPages 1 }}

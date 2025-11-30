@@ -105,3 +105,35 @@
     color: var(--secondary);
     box-shadow: 0 1px 0 var(--primary);
 }
+
+/* Grid layout for certifications/courses page */
+.posts-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: var(--gap);
+    margin-bottom: var(--gap);
+}
+
+.posts-grid .post-entry {
+    display: flex;
+    flex-direction: column;
+    aspect-ratio: 1;
+    margin-bottom: 0;
+}
+
+.posts-grid .entry-content {
+    flex-grow: 1;
+    -webkit-line-clamp: 6;
+}
+
+.posts-grid .entry-footer {
+    margin-top: auto;
+}
+
+/* Responsive grid - 1 column on mobile */
+@media (max-width: 768px) {
+    .posts-grid {
+        grid-template-columns: 1fr;
+    }
+}
+

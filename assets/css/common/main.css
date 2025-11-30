@@ -4,6 +4,8 @@
     max-width: calc(var(--main-width) + var(--gap) * 2);
     margin: auto;
     padding: var(--gap);
+    /* ensure content doesn't get covered by footer */
+    padding-bottom: calc(var(--footer-height) + var(--gap));
 }
 
 .page-header h1 {

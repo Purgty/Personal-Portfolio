@@ -1,6 +1,6 @@
 ---
 title: "ProvRain: Rain-Adaptive Denoising and Vehicle Detection via MobileNet-UNet and Faster R-CNN"
-date: 2025-01-01
+date: 2025-08-01
 tags: ["computer vision", "nighttime detection", "image restoration", "deep learning", "autonomous driving"]
 author: ["Aswinkumar Varathakumaran","Nirmala Paramanandham"]
 description: "A lightweight, curriculum-trained MobileNet-U-Net denoiser combined with a Faster R-CNN pipeline for robust nighttime vehicle detection under rainy conditions."

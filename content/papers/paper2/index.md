@@ -1,6 +1,6 @@
 ---
 title: "CLAIMS: Clinical Labeling and Abnormality Inference from Multilead ECG using LLMs with Evidence Citation"
-date: 2025-01-01
+date: 2025-10-01
 tags: ["ECG analysis", "clinical AI", "LLMs", "CNN", "explainability", "medical signal processing"]
 author: [
   "Aswinkumar Varathakumaran",
