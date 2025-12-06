@@ -36,7 +36,7 @@ params:
   # UI and appearance
   defaultTheme: "light"
   hideFooter: false
-  disableThemeToggle: true
+  disableThemeToggle: false
   disableScrollToTop: true
   disableSpecial1stPost: true
   disableAnchoredHeadings: true
@@ -63,8 +63,8 @@ params:
   profileMode:
     enabled: true
     title: "Aswinkumar V"
-    subtitle: "I am a Computer Science student passionate about Machine Learning, Computer Vision, and Generative AI."
-    imageUrl: "picture.jpeg"
+    subtitle: "Senior Undergraduate Computer Science student passionate about Machine Learning, Computer Vision, and Generative AI."
+    imageUrl: "potrait.png"
     imageWidth: 160
     imageHeight: 160
     buttons:
@@ -86,7 +86,7 @@ params:
   # Social icons
   socialIcons:
     - name: CV
-      url: cv.pdf
+      url: CV - Aswinkumar.pdf
     - name: GitHub
       url: "https://github.com/Purgty"
     - name: LinkedIn
@@ -95,7 +95,7 @@ params:
   # Branding
   label:
     text: "Aswinkumar Varathakumaran"
-    icon: "favicon.ico"
+    icon: "organization_work_documents_portfolio_business_briefcase_icon_266342.ico"
     iconHeight: 18
 
   # Assets & covers

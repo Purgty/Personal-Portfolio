@@ -1,6 +1,6 @@
 ---
 title: "OCI Generative AI Professional Certification"
-date: 2025-01-01
+date: 2025-06-30
 tags: ["certification", "cloud", "oracle", "generative ai", "professional"]
 author: "Aswinkumar Varathakumaran"
 description: "Oracle Cloud Infrastructure 2025 Generative AI Professional Certification (1Z0-1127-25)."
