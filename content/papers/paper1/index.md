@@ -7,7 +7,7 @@ description: "A lightweight, curriculum-trained MobileNet-U-Net denoiser combine
 summary: "ProvRain introduces a rain-adaptive detection pipeline using a lightweight MobileNet-U-Net denoiser and Faster R-CNN classifier. Designed for nighttime driving under severe rain, the method improves recall, accuracy, and early-warning success while remaining efficient enough for real-time automotive hardware."
 cover:
     image: "ProvRain_Arch_Diag.png"
-    alt: "Placeholder cover image for ProvRain paper"
+    alt: "ProvRain_Arch_Diagram"
     relative: true
 editPost:
     URL: "https://github.com/Purgty/ProvRain---Provident-Night-Time-Vehicle-Detection-with-Rain-Removal"

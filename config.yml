@@ -63,7 +63,7 @@ params:
   profileMode:
     enabled: true
     title: "Aswinkumar V"
-    subtitle: "Senior Undergraduate Computer Science student passionate about Deep Learning, Computer Vision, and Generative AI."
+    subtitle: "Undergraduate researcher enthusiastic about computer vision, generative modeling, and multimodal AI, with research experience in real-time perception systems, foundation model adaptation, and applied deep learning for high-impact real world tasks."
     imageUrl: "potrait.jpeg"
     imageWidth: 160
     imageHeight: 160
@@ -76,8 +76,8 @@ params:
       #   url: books/
       - name: Certifications
         url: courses/
-      - name: Tags
-        url: tags/
+      # - name: Tags
+      #   url: tags/
       # - name: Archive
       #   url: archive/
       # - name: Blog
