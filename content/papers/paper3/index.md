@@ -1,14 +1,14 @@
 ---
 title: "PROXI-NAV: Proximity-Aware Navigation with Audio-Visual Sensing Intelligence"
 date: 2025-09-01
-weight: 1
+weight: 2
 tags: ["assistive technology", "computer vision", "YOLOv8", "depth estimation", "audio guidance", "embedded AI"]
 author: ["Aswinkumar Varathakumaran", "Akshita Jawahar", "Sreya Mynampati", "Sajidha S A", "Sumaiya Thaseen"]
 description: "A multi-head YOLOv8 and FastDepth powered, real-time audio-visual navigation system for visually impaired users, deployed on the NVIDIA Jetson Nano."
 summary: "PROXI-NAV is a proximity-aware navigation system combining a multi-head YOLOv8 network for obstacle detection and pavement segmentation with FastDepth-based monocular depth estimation. Deployed on the NVIDIA Jetson Nano, it delivers low-latency real-time auditory navigation feedback for the visually impaired, enabling safer and more autonomous mobility."
 cover:
     image: "Proxi_NAV_Arch_Diag.png"
-    alt: "Placeholder cover image for PROXI-NAV paper"
+    alt: "PROXI-NAV paper"
     relative: true
 # editPost:
 #     URL: "https://github.com/pmichaillat/hugo-website"
