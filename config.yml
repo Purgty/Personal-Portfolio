@@ -63,7 +63,7 @@ params:
   profileMode:
     enabled: true
     title: "Aswinkumar V"
-    subtitle: "Senior Undergraduate Computer Science student passionate about Machine Learning, Computer Vision, and Generative AI."
+    subtitle: "Senior Undergraduate Computer Science student passionate about Deep Learning, Computer Vision, and Generative AI."
     imageUrl: "potrait.jpeg"
     imageWidth: 160
     imageHeight: 160
@@ -86,7 +86,7 @@ params:
   # Social icons
   socialIcons:
     - name: CV
-      url: CV - Aswinkumar.pdf
+      url: Research CV - Aswinkumar.pdf
     - name: GitHub
       url: "https://github.com/Purgty"
     - name: LinkedIn
