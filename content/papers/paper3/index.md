@@ -19,8 +19,8 @@ cover:
 
 ##### Download
 
-+ [Paper](Procedia_Paper_Proxi_NAV.pdf)
-+ [Code](https://github.com/YOUR_GITHUB_REPO)
++ [Paper](PROXINAV_SingleColumn.pdf)
++ [Code](https://github.com/Purgty/ProxiNAV-Depth-Guided-Walker)
 + [Data](https://github.com/kxzr/WOTR)
 
 ---
