@@ -1,7 +1,7 @@
 ---
 title: "BAIT: A Blur Aware Inertial-fused Trajectory
 Prediction pipeline for Autonomous Driving"
-date: 2026-06-01
+date: 2026-07-01
 weight: 1
 tags: ["autonomous driving", "trajectory prediction", "motion blur", "multimodal sensor fusion", "IMU", "ADAS"]
 author: ["Aswinkumar Varathakumaran", "Nirmala Paramanandham"]
@@ -40,13 +40,14 @@ The visually impaired face severe mobility challenges due to reduced spatial awa
 
 ##### Citation
 
-Varathakumaran, A., Jawahar, A., Mynampati, S., Sajidha, S. A., & Thaseen, S. (2025). *PROXI-NAV: Proximity-Aware Navigation with Audio-Visual Sensing Intelligence*. Procedia Computer Science, FTNCT08.
+Varathakumaran, A., Paramanandham, N. (2026). *BAIT: A Blur Aware Inertial-fused Trajectory
+Prediction pipeline for Autonomous Driving*. IEEE Transaction of Intelligent Vehicles (T-IV).
 
 ```latex
-@inproceedings{Varathakumaran2025ProxiNav,
-  author    = {Aswinkumar Varathakumaran and Akshita Jawahar and Sreya Mynampati and Sajidha S A and Sumaiya Thaseen},
-  title     = {PROXI{-}NAV: Proximity{-}Aware Navigation with Audio{-}Visual Sensing Intelligence},
-  booktitle = {Procedia Computer Science, FTNCT08},
-  year      = {2025},
-  url       = {https://YOUR_LINK_HERE}
+@article{Varathakumaran2026BAIT,
+  author  = {Aswinkumar Varathakumaran and Nirmala Paramanandham},
+  title   = {BAIT: A Blur Aware Inertial{-}fused Trajectory Prediction pipeline for Autonomous Driving},
+  journal = {IEEE Transactions on Intelligent Vehicles},
+  year    = {2026}
 }
+```

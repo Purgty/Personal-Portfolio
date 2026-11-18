@@ -46,6 +46,5 @@ Varathakumaran, A., & Paramanandham, N. (2025). *ProvRain: Rain-Adaptive Denoisi
   author    = {Aswinkumar Varathakumaran and Nirmala Paramanandham},
   title     = {ProvRain: Rain-Adaptive Denoising and Vehicle Detection via {MobileNet{-}UNet} and {Faster R{-}CNN}},
   booktitle = {IEEE Conference Proceedings},
-  year      = {2025},
-  url       = {https://YOUR_LINK_HERE}
+  year      = {2025}
 }

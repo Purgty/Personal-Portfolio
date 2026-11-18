@@ -51,6 +51,5 @@ Varathakumaran, A., Jawahar, A., Pandiyaraju, V., & Senthil Kumar, A. M. (2025).
   author    = {Aswinkumar Varathakumaran and Akshita Jawahar and Pandiyaraju V and Senthil Kumar A M},
   title     = {CLAIMS: Clinical Labeling and Abnormality Inference from Multilead {ECG} using {LLMs} with Evidence Citation},
   booktitle = {IEEE Conference Proceedings},
-  year      = {2025},
-  url       = {https://YOUR_LINK_HERE}
+  year      = {2025}
 }

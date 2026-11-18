@@ -46,6 +46,5 @@ Varathakumaran, A., Jawahar, A., Mynampati, S., Sajidha, S. A., & Thaseen, S. (2
   author    = {Aswinkumar Varathakumaran and Akshita Jawahar and Sreya Mynampati and Sajidha S A and Sumaiya Thaseen},
   title     = {PROXI{-}NAV: Proximity{-}Aware Navigation with Audio{-}Visual Sensing Intelligence},
   booktitle = {Procedia Computer Science, FTNCT08},
-  year      = {2025},
-  url       = {https://YOUR_LINK_HERE}
+  year      = {2025}
 }
