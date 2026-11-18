@@ -24,7 +24,9 @@
 {{- end }}
 
 {{- $pages := union .RegularPages .Sections }}
-
+{{/* Sort papers by descending weight: 4 appears before 3. */}}
+{{- if eq .Section "papers" }}
+{{- end }}
 {{- if .IsHome }}
 {{- $pages = where site.RegularPages "Type" "in" site.Params.mainSections }}
 {{- $pages = where $pages "Params.hiddenInHomeList" "!=" "true"  }}
