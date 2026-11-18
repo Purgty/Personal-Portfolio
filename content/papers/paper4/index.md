@@ -21,7 +21,7 @@ cover:
 ##### Download
 
 + [Paper](BAIT_Trajectory_Prediction.pdf)
-+ [Code]()
+<!-- + [Code]() -->
 + [Data](https://www.nuscenes.org/)
 
 ---
@@ -34,7 +34,7 @@ The visually impaired face severe mobility challenges due to reduced spatial awa
 
 ##### Figure 1: System Architecture (placeholder)
 
-![](arch_diag.png)
+![](arch_latex.png)
 
 ---
 
