@@ -1,7 +1,7 @@
 ---
 title: "PROXI-NAV: Proximity-Aware Navigation with Audio-Visual Sensing Intelligence"
 date: 2025-09-01
-weight: 2
+weight: 3
 tags: ["assistive technology", "computer vision", "YOLOv8", "depth estimation", "audio guidance", "embedded AI"]
 author: ["Aswinkumar Varathakumaran", "Akshita Jawahar", "Sreya Mynampati", "Sajidha S A", "Sumaiya Thaseen"]
 description: "A multi-head YOLOv8 and FastDepth powered, real-time audio-visual navigation system for visually impaired users, deployed on the NVIDIA Jetson Nano."
@@ -19,7 +19,7 @@ cover:
 
 ##### Download
 
-+ [Paper](PROXINAV_SingleColumn.pdf)
++ [Paper](1571239797.pdf)
 + [Code](https://github.com/Purgty/ProxiNAV-Depth-Guided-Walker)
 + [Data](https://github.com/kxzr/WOTR)
 
